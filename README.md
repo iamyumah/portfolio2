@@ -17,7 +17,5 @@ https://iamyumah.github.io/scorekeeper/
 - Resetting and managing game state
 
 ## Notes
-This project is a learning exercise based on Colt Steele’s Web Developer Bootcamp.  
-All source code is recreated and adapted by me for educational purposes only.  
-No CSS was used in this project.  
+This project is a learning exercise based on Colt Steele’s Web Developer Bootcamp.   
 No commercial use intended.
